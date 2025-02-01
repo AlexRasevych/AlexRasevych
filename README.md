@@ -1,4 +1,4 @@
-Current Junior at Rutgers University studying CS.
+Current senior at Rutgers University studying CS.
 
 <!---
 AlexRasevych/AlexRasevych is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
