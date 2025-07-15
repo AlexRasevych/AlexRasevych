@@ -20,9 +20,12 @@ I'm a recent CS graduate from Rutgers University passionate about building AI-po
 
 ---
 
-Feel free to connect on Linkedin: [alexander-rasevych](https://www.linkedin.com/in/alexander-rasevych/)
+Feel free to connect with me!
 
-email: alexander.rasevych@gmail.com
+- **Linkedin**: [alexander-rasevych](https://www.linkedin.com/in/alexander-rasevych/)
+- **Instagram**: [alex_rasevych](https://www.instagram.com/alex_rasevych?igsh=MWliZHg2bjNzb3IyNA%3D%3D&utm_source=qr)
+- **email**: alexander.rasevych@gmail.com
+
 <!---
 AlexRasevych/AlexRasevych is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
