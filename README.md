@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Alex Rasevych
 
-I'm a Computer Science graduate from Rutgers University passionate about building AI-powered applications, full-stack web tools, and solving real-world problems with code. I enjoy working with Python, React, and cloud-based tools, and I'm always looking to grow as a developer.
+I'm a recent CS graduate from Rutgers University passionate about building AI-powered applications, full-stack web tools, and solving real-world problems with code. I enjoy working with Python, React, and cloud-based tools, and I'm always looking to grow as a developer.
 
 ---
 
@@ -22,7 +22,7 @@ I'm a Computer Science graduate from Rutgers University passionate about buildin
 
 Feel free to connect on Linkedin: [alexander-rasevych](https://www.linkedin.com/in/alexander-rasevych/)
 
-email - alexander.rasevych@gmail.com
+email: alexander.rasevych@gmail.com
 <!---
 AlexRasevych/AlexRasevych is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
